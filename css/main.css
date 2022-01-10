@@ -356,7 +356,7 @@ span{
 }
 
 
-.little__span{
+.span__little{
   
   
   position: absolute;
@@ -369,7 +369,7 @@ span{
   top: -15px;
   left: -95px;
 }
-.little__span__next{
+.span__little__next{
   position: absolute;
   z-index: 2;
   width: 31px;
@@ -382,7 +382,7 @@ span{
   margin-left: 0px;
 }
 
-.little__span__our{
+.span__little__our{
   position: absolute;
   z-index: 2;
   width: 31px;
