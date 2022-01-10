@@ -176,7 +176,7 @@ border-radius: 6px;
   background-color: #66D2CF;
 }
 
-.our__section{
+.our-section{
   padding-top: 95px;
   background-image: url(../image/Group\ 13\ \(1\).png);
   
@@ -187,7 +187,7 @@ border-radius: 6px;
   
 
 }
-.our__section__item{
+.our-section__item{
   list-style: none;
   display: flex;
   justify-content: space-between;
@@ -198,12 +198,12 @@ border-radius: 6px;
   
 }
 
-.our__section__list{
+.our-section__list{
   padding: 0px;
   width: 255px;
 }
 
-.our__section__text{
+.our-section__text{
   font-family: "Fraunces" , "serif";
   color:#333D4B;
   text-align: center;
@@ -212,7 +212,7 @@ border-radius: 6px;
   line-height: 32px;
 }
 
-.our__section__poragraf{
+.our-section__poragraf{
   text-align: center;
   font-size:16px;
   font-weight: 400px;
@@ -220,7 +220,7 @@ border-radius: 6px;
   color:  #333D4B;
 }
 
-.next__section{
+.next-section{
   position: relative;
   z-index: 1;
   margin: 0px;
@@ -229,12 +229,12 @@ border-radius: 6px;
   
 }
 
-.next__section__box{
+.next-section__box{
   background-color:  #293039;
   border-radius: 10px;
   
 }
-.next__section__text{
+.next-section__text{
   font-family: "Fraunces" , "serif";
   text-align: center;
   color: #FEFCF7;
@@ -248,7 +248,7 @@ border-radius: 6px;
 
 
 
-.next__section__poragraf{
+.next-section__poragraf{
   width: 540px;
    margin: 0 auto; 
   line-height: 26px;
@@ -260,7 +260,7 @@ border-radius: 6px;
 
 }
 
-.next__section__item{
+.next-section__item{
  display: flex;
  list-style: none;
  justify-content: space-between;
@@ -278,7 +278,7 @@ margin: 0 84px;
 
 
 
-.next__section__list{
+.next-section__list{
   text-align: center;
   width: 350px;
   background-color: #0E8784;
@@ -289,14 +289,14 @@ margin: 0 84px;
 
 }
 
-.next__section__list--activite{
+.next-section__list--activite{
   margin: 0 30px;
 
 }
-.next__section__image{
+.next-section__image{
   margin: 0 auto;
 }
-.next__section__little__text{
+.next-section__little__text{
   font-family: "Fraunces" , "serif";
   font-size: 24px;
   line-height: 32px;
@@ -305,7 +305,7 @@ margin: 0 84px;
   text-align: center;
 }
 
-.next_section__little__poragraf{
+.next-section__little__poragraf{
   text-align: center;
   color: #FEFCF7;
   font-weight: 400;
@@ -315,7 +315,7 @@ margin: 0 84px;
 
 
 
-.last__section{
+.last-section{
   margin-bottom: 200px;
 }
 
@@ -323,7 +323,7 @@ margin: 0 84px;
 
 
 
-.last__section__text{
+.last-section__text{
   font-family: "Fraunces" , "serif";
   font-weight: 900;
   font-size: 24px;
@@ -342,10 +342,6 @@ margin: 0 84px;
 
  
   
-  
-
- 
-
 
 
 
@@ -360,7 +356,7 @@ span{
 }
 
 
-.little__span{
+.little-span{
   
   
   position: absolute;
@@ -373,7 +369,7 @@ span{
   top: -15px;
   left: -95px;
 }
-.little__span__next{
+.little-span__next{
   position: absolute;
   z-index: 2;
   width: 31px;
@@ -386,7 +382,7 @@ span{
   margin-left: 0px;
 }
 
-.little__span__our{
+.little-span__our{
   position: absolute;
   z-index: 2;
   width: 31px;
@@ -402,7 +398,7 @@ span{
 }
 
 
-.last__section__item{
+.last-section__item{
  
   display: flex;
   list-style: none;
@@ -413,19 +409,19 @@ span{
 }
 
 
-.last__section__list{
+.last-section__list{
   width: 285px;
 
 }
 
-.last__section__list--active{
+.last-section__list--active{
   
   margin-left:  70px;
   margin-right: 85px;
 }
 
 
-.last__section__list__text{
+.last-section__list__text{
   font-family: "Fraunces" , "serif";
   width: 180px;
   font-size: 2em;
@@ -434,7 +430,7 @@ span{
   color:#333D4B;
 }
 
-.last__section__list__poragraf{
+.last-section__list__poragraf{
   line-height: 26px;
   font-weight: 400;
   color:#333D4B;
@@ -442,7 +438,7 @@ span{
 
 
 
-.last__section__link{
+.last-section__link{
   font-family: "Fraunces" , "serif";
   width: 217px;
   background-color:#0E8784;
@@ -460,7 +456,7 @@ span{
 }
 
 
-.last__section__link:hover{
+.last-section__link:hover{
   background-color:#66D2CF;
 }
 
